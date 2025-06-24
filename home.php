@@ -1,5 +1,5 @@
 <?php
-require_once $_SERVER['DOCUMENT_ROOT']."/Controllers/template.php";
+include $_SERVER['DOCUMENT_ROOT'] . '/AUTO-EMAIL/Views/template.php';
 $template = new TemplateController();
 $template -> template();
 ?>

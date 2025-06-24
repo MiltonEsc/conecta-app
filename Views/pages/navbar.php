@@ -1,4 +1,4 @@
-<?php include $_SERVER['DOCUMENT_ROOT']."/conexion/sessiones.php";?>
+<?php include $_SERVER['DOCUMENT_ROOT']. "/AUTO-EMAIL/conexion/sessiones.php";?>
 <nav class="navbar navbar-expand-lg navbar-absolute fixed-top">
     <div class="container-fluid">
       <div class="navbar-wrapper">

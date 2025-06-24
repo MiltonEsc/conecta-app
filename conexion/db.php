@@ -1,6 +1,6 @@
 <?php
 	//session_start();
-    $mysqli = new mysqli("127.0.0.1", "cmwhcnhg", "jsM093wby5Tib231d*" , "cmwhcnhg_cumpleanos");
+    $mysqli = new mysqli("localhost", "root", "" , "novedades_sb");
     
     if ($mysqli->connect_errno) {
         echo "<h1>Lo sentimos, este sitio web está experimentando problemas.</h1>";
