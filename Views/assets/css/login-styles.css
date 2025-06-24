@@ -1,0 +1,17 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+
+.btn-primary{
+    background: #3F3D56;
+    border-color: #eee;
+}
+
+.btn-primary:hover{
+    background: #ff5500;
+    border-color: #eee;
+}
